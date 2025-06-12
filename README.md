@@ -109,7 +109,7 @@ Permitir a inclusão de novos usuários no sistema de reconhecimento facial sem 
 
 1.  **Clone este repositório:**
     ```bash
-    git clone [URL_DO_REPOSITORIO]
+    git clone (https://github.com/Lyuuki09/Reconhecimento_Facial_com_CNN.git)
     cd [NOME_DO_DIRETORIO]
     ```
 
