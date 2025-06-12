@@ -1,0 +1,18 @@
+{
+  "label_to_idx": {
+    "Anderson": 0,
+    "Daniel Saboya": 1,
+    "Juan": 2,
+    "Leandro": 3,
+    "Miguel": 4,
+    "Ygor": 5
+  },
+  "idx_to_label": {
+    "0": "Anderson",
+    "1": "Daniel Saboya",
+    "2": "Juan",
+    "3": "Leandro",
+    "4": "Miguel",
+    "5": "Ygor"
+  }
+}

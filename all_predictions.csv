@@ -1,0 +1,583 @@
+image_path,predicted_label,confidence,true_label
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\20250611_200937.jpg,Anderson,0.9957323670387268,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\20250611_200939.jpg,Anderson,0.9955442547798157,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\20250611_200941.jpg,Anderson,0.9931496977806091,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\20250611_200943.jpg,Anderson,0.9971567392349243,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\20250611_200944.jpg,Anderson,0.9972425699234009,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\20250611_200946.jpg,Anderson,0.9983751773834229,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\20250611_200947.jpg,Anderson,0.9956210255622864,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\20250611_200953.jpg,Anderson,0.9909244179725647,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\20250611_200954.jpg,Anderson,0.9982385635375977,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\20250611_200957.jpg,Anderson,0.9959897398948669,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\20250611_201000.jpg,Anderson,0.9949032068252563,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\20250611_201004.jpg,Anderson,0.9911693334579468,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\20250611_201007.jpg,Anderson,0.9878653883934021,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\20250611_201009.jpg,Anderson,0.9817848205566406,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\20250611_201011.jpg,Anderson,0.9908066391944885,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\IMG-20250507-WA0020(1).jpg,Anderson,0.9941303133964539,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\IMG-20250611-WA0014.jpg,Anderson,0.9887369275093079,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\IMG-20250611-WA0015.jpg,Anderson,0.989588737487793,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\IMG-20250611-WA0016.jpg,Anderson,0.9935759902000427,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\IMG-20250611-WA0017.jpg,Anderson,0.9868009090423584,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\IMG-20250611-WA0018.jpg,Anderson,0.9960571527481079,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\IMG-20250611-WA0019.jpg,Anderson,0.9907581806182861,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\IMG-20250611-WA0020.jpg,Anderson,0.9929760694503784,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\IMG-20250611-WA0021.jpg,Anderson,0.9897476434707642,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\IMG-20250611-WA0022.jpg,Anderson,0.9906439781188965,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\IMG-20250611-WA0023.jpg,Anderson,0.9814526438713074,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\IMG-20250611-WA0024.jpg,Anderson,0.9858044981956482,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\IMG-20250611-WA0025.jpg,Anderson,0.9897281527519226,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\IMG-20250611-WA0026.jpg,Anderson,0.9961934089660645,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\IMG-20250611-WA0027.jpg,Anderson,0.9853594303131104,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\IMG-20250611-WA0028.jpg,Anderson,0.9944076538085938,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\Screenshot_20250607_162953_WhatsApp.jpg,Anderson,0.9246360659599304,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\Screenshot_20250607_163541_LinkedIn.jpg,Anderson,0.9921350479125977,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\WhatsApp Image 2025-05-07 at 13.38.05.jpeg,Anderson,0.9986577033996582,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\WhatsApp Image 2025-05-07 at 13.38.06 (1).jpeg,Anderson,0.9971279501914978,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\WhatsApp Image 2025-05-07 at 13.38.06 (2).jpeg,Anderson,0.608780026435852,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\WhatsApp Image 2025-05-07 at 13.38.06 (3).jpeg,Anderson,0.9949780106544495,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\WhatsApp Image 2025-05-07 at 13.38.06 (4).jpeg,Anderson,0.9998385906219482,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\WhatsApp Image 2025-05-07 at 13.38.06.jpeg,Anderson,0.996752142906189,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\WhatsApp Image 2025-05-07 at 13.38.07 (1).jpeg,Anderson,0.9942672848701477,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\WhatsApp Image 2025-05-07 at 13.38.07 (2).jpeg,Anderson,0.9895652532577515,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\WhatsApp Image 2025-05-07 at 13.38.07 (3).jpeg,Anderson,0.966850996017456,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\WhatsApp Image 2025-05-07 at 13.38.07.jpeg,Anderson,0.9926952123641968,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\WhatsApp Image 2025-05-07 at 13.46.38 (1).jpeg,Anderson,0.9962355494499207,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\WhatsApp Image 2025-05-07 at 13.46.38 (2).jpeg,Anderson,0.99678635597229,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\WhatsApp Image 2025-05-07 at 13.46.38 (3).jpeg,Anderson,0.985316812992096,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\WhatsApp Image 2025-05-07 at 13.46.39 (1).jpeg,Anderson,0.9914482831954956,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\WhatsApp Image 2025-05-07 at 13.46.39 (2).jpeg,Anderson,0.9934396147727966,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\WhatsApp Image 2025-05-07 at 13.46.39 (3).jpeg,Anderson,0.996993899345398,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\WhatsApp Image 2025-05-07 at 13.46.39.jpeg,Anderson,0.9948450326919556,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\WhatsApp Image 2025-05-07 at 13.46.40 (1).jpeg,Anderson,0.9879420399665833,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\WhatsApp Image 2025-05-07 at 13.46.40 (2).jpeg,Anderson,0.9940001964569092,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\WhatsApp Image 2025-05-07 at 13.46.40.jpeg,Anderson,0.9935464262962341,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Daniel Saboya\images - 2025-06-07T195404.051.jpeg,Daniel Saboya,0.9966673254966736,Daniel Saboya
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Daniel Saboya\images - 2025-06-07T195407.781.jpeg,Daniel Saboya,0.9961723685264587,Daniel Saboya
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Daniel Saboya\images - 2025-06-07T195413.488.jpeg,Daniel Saboya,0.9957637786865234,Daniel Saboya
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Daniel Saboya\images - 2025-06-07T195421.640.jpeg,Daniel Saboya,0.9962781071662903,Daniel Saboya
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Daniel Saboya\images - 2025-06-07T195425.349.jpeg,Daniel Saboya,0.9966461062431335,Daniel Saboya
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Daniel Saboya\images - 2025-06-07T195438.265.jpeg,Daniel Saboya,0.9901304841041565,Daniel Saboya
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Daniel Saboya\images - 2025-06-07T195458.542.jpeg,Daniel Saboya,0.9974803328514099,Daniel Saboya
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Daniel Saboya\images - 2025-06-07T195509.133.jpeg,Daniel Saboya,0.9908484220504761,Daniel Saboya
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Daniel Saboya\images - 2025-06-07T195540.638.jpeg,Daniel Saboya,0.9902861714363098,Daniel Saboya
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Daniel Saboya\images - 2025-06-07T195548.041.jpeg,Daniel Saboya,0.9918339252471924,Daniel Saboya
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Daniel Saboya\images - 2025-06-07T195600.400.jpeg,Daniel Saboya,0.9809682965278625,Daniel Saboya
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Daniel Saboya\images - 2025-06-07T195604.813.jpeg,Daniel Saboya,0.9755519032478333,Daniel Saboya
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Daniel Saboya\images - 2025-06-07T195613.694.jpeg,Daniel Saboya,0.9906847476959229,Daniel Saboya
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Daniel Saboya\images - 2025-06-07T195636.987.jpeg,Daniel Saboya,0.9783445596694946,Daniel Saboya
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Daniel Saboya\images - 2025-06-07T195650.393.jpeg,Daniel Saboya,0.9791311025619507,Daniel Saboya
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Daniel Saboya\images - 2025-06-07T195655.257.jpeg,Daniel Saboya,0.9928085803985596,Daniel Saboya
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Daniel Saboya\images - 2025-06-07T195747.351.jpeg,Daniel Saboya,0.9918455481529236,Daniel Saboya
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Daniel Saboya\images - 2025-06-07T195932.223.jpeg,Daniel Saboya,0.767278254032135,Daniel Saboya
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Daniel Saboya\images - 2025-06-07T195948.339.jpeg,Daniel Saboya,0.9886869192123413,Daniel Saboya
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Daniel Saboya\images - 2025-06-07T195959.993.jpeg,Daniel Saboya,0.9925369620323181,Daniel Saboya
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Daniel Saboya\images - 2025-06-07T200102.287.jpeg,Daniel Saboya,0.98659747838974,Daniel Saboya
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Daniel Saboya\images - 2025-06-07T200112.077.jpeg,Daniel Saboya,0.9948714971542358,Daniel Saboya
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Daniel Saboya\Screenshot_20250607_195800_Gallery.jpg,Daniel Saboya,0.9898155927658081,Daniel Saboya
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.55.59.jpeg,Juan,0.9921368360519409,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.00 (1).jpeg,Juan,0.9976717829704285,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.00 (2).jpeg,Juan,0.9980382323265076,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.00.jpeg,Juan,0.9974952936172485,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.01 (1).jpeg,Juan,0.9918489456176758,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.01 (2).jpeg,Juan,0.9963627457618713,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.01 (3).jpeg,Juan,0.9778672456741333,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.01.jpeg,Juan,0.9877299666404724,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.02 (1).jpeg,Juan,0.9903297424316406,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.02 (2).jpeg,Juan,0.9906112551689148,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.02 (3).jpeg,Juan,0.9518740177154541,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.02.jpeg,Juan,0.9878553748130798,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.03 (1).jpeg,Juan,0.9988324046134949,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.03 (2).jpeg,Juan,0.9976240992546082,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.03 (3).jpeg,Juan,0.9840447902679443,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.03.jpeg,Juan,0.9940774440765381,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.04 (1).jpeg,Juan,0.9745094180107117,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.04 (2).jpeg,Juan,0.9937973618507385,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.04 (3).jpeg,Juan,0.991443932056427,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.04.jpeg,Juan,0.9932637214660645,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.05 (1).jpeg,Juan,0.9800605773925781,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.05 (2).jpeg,Juan,0.9835582375526428,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.05 (3).jpeg,Juan,0.996391236782074,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.05.jpeg,Juan,0.9963110089302063,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.06 (1).jpeg,Juan,0.9986799359321594,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.06 (2).jpeg,Juan,0.9916457533836365,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.06 (3).jpeg,Juan,0.9953985810279846,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.06.jpeg,Leandro,0.8672241568565369,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.07 (1).jpeg,Juan,0.9875280261039734,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.07 (2).jpeg,Juan,0.9921368360519409,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.07 (3).jpeg,Juan,0.9988994598388672,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.07.jpeg,Juan,0.9995067119598389,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.08 (1).jpeg,Juan,0.9971572160720825,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.08 (2).jpeg,Juan,0.9902790188789368,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.08.jpeg,Juan,0.9962190985679626,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.09 (1).jpeg,Juan,0.994037389755249,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.09 (2).jpeg,Juan,0.9825404286384583,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.09 (3).jpeg,Juan,0.9958096742630005,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.09.jpeg,Juan,0.9871343970298767,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.10 (1).jpeg,Juan,0.9899214506149292,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.10 (2).jpeg,Juan,0.9945918917655945,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.10 (3).jpeg,Juan,0.9916240572929382,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.10.jpeg,Juan,0.9846182465553284,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.11 (1).jpeg,Juan,0.9858447313308716,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.11.jpeg,Juan,0.9856734275817871,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.12 (1).jpeg,Juan,0.9982293248176575,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.12 (2).jpeg,Juan,0.9921572208404541,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.12 (3).jpeg,Juan,0.9925578832626343,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.12.jpeg,Juan,0.9958183169364929,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.13 (1).jpeg,Juan,0.9967095851898193,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.13 (2).jpeg,Juan,0.9988327622413635,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.13 (3).jpeg,Juan,0.9939213991165161,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.13.jpeg,Juan,0.9908122420310974,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.14 (1).jpeg,Juan,0.9865286350250244,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.14 (2).jpeg,Juan,0.9806259870529175,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.14.jpeg,Juan,0.9923015832901001,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0025.jpg,Leandro,0.9977222084999084,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0026.jpg,Leandro,0.9974079728126526,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0027.jpg,Leandro,0.9917961359024048,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0028.jpg,Leandro,0.9979060888290405,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0030.jpg,Leandro,0.8262988924980164,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0031.jpg,Leandro,0.9949445128440857,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0032.jpg,Leandro,0.9901809692382812,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0033.jpg,Leandro,0.9905593395233154,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0034.jpg,Leandro,0.9872153997421265,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0035.jpg,Leandro,0.9884955883026123,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0036.jpg,Leandro,0.9966272711753845,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0038.jpg,Leandro,0.9954676628112793,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0039.jpg,Leandro,0.9954847097396851,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0040.jpg,Leandro,0.9961509704589844,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0041.jpg,Leandro,0.864188015460968,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0042.jpg,Leandro,0.9976211190223694,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0043.jpg,Leandro,0.9959208965301514,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0044.jpg,Leandro,0.9840032458305359,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0045.jpg,Leandro,0.9910734295845032,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0047.jpg,Leandro,0.9871893525123596,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0049.jpg,Leandro,0.9884308576583862,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0050.jpg,Leandro,0.9989677667617798,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0051.jpg,Leandro,0.9887335300445557,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0052.jpg,Leandro,0.9982321858406067,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0053.jpg,Leandro,0.9991909861564636,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0054.jpg,Leandro,0.9795522093772888,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0055.jpg,Leandro,0.9960620999336243,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0056.jpg,Leandro,0.9758694767951965,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0057.jpg,Leandro,0.9883334636688232,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0059.jpg,Leandro,0.9961795806884766,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0061.jpg,Leandro,0.9915920495986938,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0062.jpg,Leandro,0.998576283454895,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0063.jpg,Leandro,0.9925779700279236,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0064.jpg,Leandro,0.9984772801399231,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0065.jpg,Leandro,0.9988037347793579,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0066.jpg,Leandro,0.9962108135223389,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0067.jpg,Leandro,0.9896687865257263,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0068.jpg,Leandro,0.974918782711029,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0069.jpg,Leandro,0.9879850745201111,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0070.jpg,Leandro,0.9806545376777649,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0071.jpg,Leandro,0.9940072298049927,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0072.jpg,Leandro,0.9975995421409607,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0073.jpg,Leandro,0.9751502275466919,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0076.jpg,Leandro,0.9984806180000305,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0078.jpg,Leandro,0.949015200138092,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0079.jpg,Leandro,0.9955840706825256,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0080.jpg,Leandro,0.9960089921951294,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0081.jpg,Leandro,0.9980560541152954,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0084.jpg,Leandro,0.9980541467666626,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0085.jpg,Leandro,0.9969624876976013,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_192538535.png,Miguel,0.991051197052002,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_192624096.png,Miguel,0.9916934370994568,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_192635287.png,Miguel,0.9864102005958557,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_192646665.png,Miguel,0.9837730526924133,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_192700740.png,Miguel,0.9886153936386108,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_192720751.png,Miguel,0.9909798502922058,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_192806926.png,Miguel,0.9970420002937317,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_192827581.png,Miguel,0.9879101514816284,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_192900504.png,Miguel,0.9876242876052856,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_192950293.png,Miguel,0.9868592023849487,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193046033.png,Miguel,0.9951293468475342,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193106969.png,Miguel,0.9878655076026917,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193138006.png,Miguel,0.9913817048072815,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193157449.png,Miguel,0.99540114402771,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193211051.png,Miguel,0.9585118293762207,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193221247.png,Miguel,0.9948487281799316,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193236237.png,Miguel,0.989834189414978,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193255427.png,Miguel,0.995468258857727,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193306432.png,Miguel,0.989503026008606,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193316438.png,Miguel,0.9903678894042969,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193332257.png,Miguel,0.9917036294937134,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193343554.png,Miguel,0.9873231053352356,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193356719.png,Miguel,0.9837537407875061,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193410844.png,Miguel,0.9846462607383728,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193423915.png,Miguel,0.9862042665481567,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193504381.png,Miguel,0.9908424615859985,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193515970.png,Miguel,0.9955973029136658,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193532820.png,Miguel,0.9764673113822937,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193544929.png,Miguel,0.49091261625289917,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193558346.png,Miguel,0.9744491577148438,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193616022.png,Miguel,0.9880692362785339,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193629556.png,Miguel,0.9729701280593872,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193644313.png,Miguel,0.981765866279602,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193705174.png,Miguel,0.9883285760879517,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193716495.png,Miguel,0.993624210357666,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193729712.png,Miguel,0.9687841534614563,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193810448.png,Miguel,0.9944767355918884,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\miguelzinho_miguelzinho.jpg,Miguel,0.9948461055755615,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\miguelzin_careta_engracada.jpg,Miguel,0.9829152822494507,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\miguelzin_com_cara_engracada.jpg,Miguel,0.997103750705719,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\miguelzin_de_perfil.jpg,Miguel,0.988616406917572,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\miguelzin_no_fundo_verde.jpg,Miguel,0.9970632195472717,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\miguelzin_ouvindo_rockpesado.jpg,Miguel,0.9957477450370789,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\miguelzin_sorriso_fofo.jpg,Miguel,0.9930816292762756,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\miguel_comprando_maca.jpg,Miguel,0.9890762567520142,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\miguel_demorando_pra_comer.jpg,Miguel,0.9957677125930786,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\mig_2ca_mao.jpg,Miguel,0.993279755115509,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\mig_2com_a_mao.jpg,Miguel,0.992475688457489,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\mig_caraengracada2.jpg,Miguel,0.9926592707633972,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\mig_careta_linguaprafora.jpg,Miguel,0.9986069798469543,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\mig_dancarino_oculos_escuro.jpg,Miguel,0.9913051128387451,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\mig_foto_do_dia.jpg,Miguel,0.9933688044548035,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\mig_joinha.jpg,Miguel,0.9819221496582031,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\mig_michilas.jpg,Miguel,0.9966700673103333,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\mig_vitoria_comdedos.jpg,Miguel,0.9948122501373291,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\20241002_114348.jpg,Ygor,0.9839771389961243,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\20241130_152639.jpg,Ygor,0.9859122633934021,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\20241230_053229.jpg,Ygor,0.9922230839729309,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\20241230_185034.jpg,Ygor,0.4750964939594269,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\20250102_052746.jpg,Ygor,0.9988768696784973,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\20250103_033226.jpg,Ygor,0.9935717582702637,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\20250430_101951.jpg,Ygor,0.9965884685516357,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\20250505_101615(0).jpg,Ygor,0.997219443321228,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\Captura de tela 2025-05-07 115048.png,Ygor,0.9921659231185913,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\Captura de tela 2025-05-07 115241.png,Ygor,0.9817896485328674,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\Captura de tela 2025-05-07 115433.png,Ygor,0.9881070852279663,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\Captura de tela 2025-05-07 115457.png,Ygor,0.9803655743598938,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\Captura de tela 2025-06-05 191503.png,Ygor,0.9918274879455566,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_185618683.png,Ygor,0.9871252179145813,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_185653914.png,Ygor,0.9956541061401367,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_185721591.png,Ygor,0.9960346817970276,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_185759049.png,Ygor,0.9982699155807495,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_185844544.png,Ygor,0.9943155646324158,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_185909062.png,Ygor,0.9924893379211426,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_185936830.png,Ygor,0.9944736361503601,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_190010884.png,Ygor,0.9966835379600525,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_190047762.png,Ygor,0.9805940985679626,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_190139447.png,Ygor,0.9953372478485107,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_190211349.png,Ygor,0.9931394457817078,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_190329908.png,Ygor,0.993413507938385,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_190406030.png,Ygor,0.9950841069221497,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_190830496.png,Ygor,0.9991360306739807,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_190911444.png,Ygor,0.9833995699882507,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_190933258.png,Ygor,0.9974613189697266,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_190943551.png,Ygor,0.9950473308563232,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_191002411.png,Ygor,0.9883514046669006,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_191016312.png,Ygor,0.999140739440918,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_191151715.png,Ygor,0.9986224174499512,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_191208664.png,Ygor,0.9978729486465454,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_191221605.png,Ygor,0.9973260164260864,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_191303942.png,Ygor,0.9996145963668823,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_191316127.png,Ygor,0.9838378429412842,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_191335413.png,Ygor,0.9957205653190613,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_191429610.png,Ygor,0.9965265393257141,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_191441246.png,Ygor,0.974131166934967,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_191454215.png,Ygor,0.9836001396179199,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_191638009.png,Ygor,0.9802224040031433,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_191647896.png,Ygor,0.985532820224762,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_191656566.png,Ygor,0.9754254221916199,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_191708682.png,Ygor,0.960371196269989,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_191727269.png,Ygor,0.9930081367492676,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_191803809.png,Ygor,0.993524432182312,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_191825854.png,Ygor,0.9921201467514038,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_191859742.png,Ygor,0.9973341226577759,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_191927495.png,Ygor,0.9937080144882202,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_191936799.png,Ygor,0.9947286248207092,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_192005812.png,Ygor,0.9992071986198425,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\IMG-20241103-WA0007.jpg,Ygor,0.9912359714508057,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\Screenshot_20250313_234823_Photos.jpg,Ygor,0.9957915544509888,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\20250611_200937.jpg,Anderson,0.9957323670387268,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\20250611_200939.jpg,Anderson,0.9955442547798157,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\20250611_200941.jpg,Anderson,0.9931496977806091,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\20250611_200943.jpg,Anderson,0.9971567392349243,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\20250611_200944.jpg,Anderson,0.9972425699234009,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\20250611_200946.jpg,Anderson,0.9983751773834229,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\20250611_200947.jpg,Anderson,0.9956210255622864,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\20250611_200953.jpg,Anderson,0.9909244179725647,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\20250611_200954.jpg,Anderson,0.9982385635375977,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\20250611_200957.jpg,Anderson,0.9959897398948669,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\20250611_201000.jpg,Anderson,0.9949032068252563,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\20250611_201004.jpg,Anderson,0.9911693334579468,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\20250611_201007.jpg,Anderson,0.9878653883934021,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\20250611_201009.jpg,Anderson,0.9817848205566406,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\20250611_201011.jpg,Anderson,0.9908066391944885,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\IMG-20250507-WA0020(1).jpg,Anderson,0.9941303133964539,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\IMG-20250611-WA0014.jpg,Anderson,0.9887369275093079,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\IMG-20250611-WA0015.jpg,Anderson,0.989588737487793,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\IMG-20250611-WA0016.jpg,Anderson,0.9935759902000427,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\IMG-20250611-WA0017.jpg,Anderson,0.9868009090423584,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\IMG-20250611-WA0018.jpg,Anderson,0.9960571527481079,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\IMG-20250611-WA0019.jpg,Anderson,0.9907581806182861,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\IMG-20250611-WA0020.jpg,Anderson,0.9929760694503784,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\IMG-20250611-WA0021.jpg,Anderson,0.9897476434707642,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\IMG-20250611-WA0022.jpg,Anderson,0.9906439781188965,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\IMG-20250611-WA0023.jpg,Anderson,0.9814526438713074,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\IMG-20250611-WA0024.jpg,Anderson,0.9858044981956482,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\IMG-20250611-WA0025.jpg,Anderson,0.9897281527519226,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\IMG-20250611-WA0026.jpg,Anderson,0.9961934089660645,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\IMG-20250611-WA0027.jpg,Anderson,0.9853594303131104,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\IMG-20250611-WA0028.jpg,Anderson,0.9944076538085938,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\Screenshot_20250607_162953_WhatsApp.jpg,Anderson,0.9246360659599304,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\Screenshot_20250607_163541_LinkedIn.jpg,Anderson,0.9921350479125977,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\WhatsApp Image 2025-05-07 at 13.38.05.jpeg,Anderson,0.9986577033996582,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\WhatsApp Image 2025-05-07 at 13.38.06 (1).jpeg,Anderson,0.9971279501914978,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\WhatsApp Image 2025-05-07 at 13.38.06 (2).jpeg,Anderson,0.608780026435852,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\WhatsApp Image 2025-05-07 at 13.38.06 (3).jpeg,Anderson,0.9949780106544495,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\WhatsApp Image 2025-05-07 at 13.38.06 (4).jpeg,Anderson,0.9998385906219482,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\WhatsApp Image 2025-05-07 at 13.38.06.jpeg,Anderson,0.996752142906189,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\WhatsApp Image 2025-05-07 at 13.38.07 (1).jpeg,Anderson,0.9942672848701477,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\WhatsApp Image 2025-05-07 at 13.38.07 (2).jpeg,Anderson,0.9895652532577515,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\WhatsApp Image 2025-05-07 at 13.38.07 (3).jpeg,Anderson,0.966850996017456,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\WhatsApp Image 2025-05-07 at 13.38.07.jpeg,Anderson,0.9926952123641968,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\WhatsApp Image 2025-05-07 at 13.46.38 (1).jpeg,Anderson,0.9962355494499207,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\WhatsApp Image 2025-05-07 at 13.46.38 (2).jpeg,Anderson,0.99678635597229,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\WhatsApp Image 2025-05-07 at 13.46.38 (3).jpeg,Anderson,0.985316812992096,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\WhatsApp Image 2025-05-07 at 13.46.39 (1).jpeg,Anderson,0.9914482831954956,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\WhatsApp Image 2025-05-07 at 13.46.39 (2).jpeg,Anderson,0.9934396147727966,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\WhatsApp Image 2025-05-07 at 13.46.39 (3).jpeg,Anderson,0.996993899345398,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\WhatsApp Image 2025-05-07 at 13.46.39.jpeg,Anderson,0.9948450326919556,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\WhatsApp Image 2025-05-07 at 13.46.40 (1).jpeg,Anderson,0.9879420399665833,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\WhatsApp Image 2025-05-07 at 13.46.40 (2).jpeg,Anderson,0.9940001964569092,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Anderson\WhatsApp Image 2025-05-07 at 13.46.40.jpeg,Anderson,0.9935464262962341,Anderson
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Daniel Saboya\images - 2025-06-07T195404.051.jpeg,Daniel Saboya,0.9966673254966736,Daniel Saboya
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Daniel Saboya\images - 2025-06-07T195407.781.jpeg,Daniel Saboya,0.9961723685264587,Daniel Saboya
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Daniel Saboya\images - 2025-06-07T195413.488.jpeg,Daniel Saboya,0.9957637786865234,Daniel Saboya
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Daniel Saboya\images - 2025-06-07T195421.640.jpeg,Daniel Saboya,0.9962781071662903,Daniel Saboya
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Daniel Saboya\images - 2025-06-07T195425.349.jpeg,Daniel Saboya,0.9966461062431335,Daniel Saboya
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Daniel Saboya\images - 2025-06-07T195438.265.jpeg,Daniel Saboya,0.9901304841041565,Daniel Saboya
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Daniel Saboya\images - 2025-06-07T195458.542.jpeg,Daniel Saboya,0.9974803328514099,Daniel Saboya
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Daniel Saboya\images - 2025-06-07T195509.133.jpeg,Daniel Saboya,0.9908484220504761,Daniel Saboya
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Daniel Saboya\images - 2025-06-07T195540.638.jpeg,Daniel Saboya,0.9902861714363098,Daniel Saboya
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Daniel Saboya\images - 2025-06-07T195548.041.jpeg,Daniel Saboya,0.9918339252471924,Daniel Saboya
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Daniel Saboya\images - 2025-06-07T195600.400.jpeg,Daniel Saboya,0.9809682965278625,Daniel Saboya
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Daniel Saboya\images - 2025-06-07T195604.813.jpeg,Daniel Saboya,0.9755519032478333,Daniel Saboya
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Daniel Saboya\images - 2025-06-07T195613.694.jpeg,Daniel Saboya,0.9906847476959229,Daniel Saboya
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Daniel Saboya\images - 2025-06-07T195636.987.jpeg,Daniel Saboya,0.9783445596694946,Daniel Saboya
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Daniel Saboya\images - 2025-06-07T195650.393.jpeg,Daniel Saboya,0.9791311025619507,Daniel Saboya
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Daniel Saboya\images - 2025-06-07T195655.257.jpeg,Daniel Saboya,0.9928085803985596,Daniel Saboya
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Daniel Saboya\images - 2025-06-07T195747.351.jpeg,Daniel Saboya,0.9918455481529236,Daniel Saboya
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Daniel Saboya\images - 2025-06-07T195932.223.jpeg,Daniel Saboya,0.767278254032135,Daniel Saboya
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Daniel Saboya\images - 2025-06-07T195948.339.jpeg,Daniel Saboya,0.9886869192123413,Daniel Saboya
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Daniel Saboya\images - 2025-06-07T195959.993.jpeg,Daniel Saboya,0.9925369620323181,Daniel Saboya
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Daniel Saboya\images - 2025-06-07T200102.287.jpeg,Daniel Saboya,0.98659747838974,Daniel Saboya
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Daniel Saboya\images - 2025-06-07T200112.077.jpeg,Daniel Saboya,0.9948714971542358,Daniel Saboya
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Daniel Saboya\Screenshot_20250607_195800_Gallery.jpg,Daniel Saboya,0.9898155927658081,Daniel Saboya
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.55.59.jpeg,Juan,0.9921368360519409,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.00 (1).jpeg,Juan,0.9976717829704285,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.00 (2).jpeg,Juan,0.9980382323265076,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.00.jpeg,Juan,0.9974952936172485,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.01 (1).jpeg,Juan,0.9918489456176758,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.01 (2).jpeg,Juan,0.9963627457618713,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.01 (3).jpeg,Juan,0.9778672456741333,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.01.jpeg,Juan,0.9877299666404724,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.02 (1).jpeg,Juan,0.9903297424316406,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.02 (2).jpeg,Juan,0.9906112551689148,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.02 (3).jpeg,Juan,0.9518740177154541,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.02.jpeg,Juan,0.9878553748130798,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.03 (1).jpeg,Juan,0.9988324046134949,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.03 (2).jpeg,Juan,0.9976240992546082,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.03 (3).jpeg,Juan,0.9840447902679443,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.03.jpeg,Juan,0.9940774440765381,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.04 (1).jpeg,Juan,0.9745094180107117,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.04 (2).jpeg,Juan,0.9937973618507385,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.04 (3).jpeg,Juan,0.991443932056427,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.04.jpeg,Juan,0.9932637214660645,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.05 (1).jpeg,Juan,0.9800605773925781,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.05 (2).jpeg,Juan,0.9835582375526428,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.05 (3).jpeg,Juan,0.996391236782074,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.05.jpeg,Juan,0.9963110089302063,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.06 (1).jpeg,Juan,0.9986799359321594,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.06 (2).jpeg,Juan,0.9916457533836365,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.06 (3).jpeg,Juan,0.9953985810279846,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.06.jpeg,Leandro,0.8672241568565369,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.07 (1).jpeg,Juan,0.9875280261039734,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.07 (2).jpeg,Juan,0.9921368360519409,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.07 (3).jpeg,Juan,0.9988994598388672,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.07.jpeg,Juan,0.9995067119598389,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.08 (1).jpeg,Juan,0.9971572160720825,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.08 (2).jpeg,Juan,0.9902790188789368,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.08.jpeg,Juan,0.9962190985679626,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.09 (1).jpeg,Juan,0.994037389755249,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.09 (2).jpeg,Juan,0.9825404286384583,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.09 (3).jpeg,Juan,0.9958096742630005,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.09.jpeg,Juan,0.9871343970298767,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.10 (1).jpeg,Juan,0.9899214506149292,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.10 (2).jpeg,Juan,0.9945918917655945,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.10 (3).jpeg,Juan,0.9916240572929382,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.10.jpeg,Juan,0.9846182465553284,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.11 (1).jpeg,Juan,0.9858447313308716,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.11.jpeg,Juan,0.9856734275817871,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.12 (1).jpeg,Juan,0.9982293248176575,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.12 (2).jpeg,Juan,0.9921572208404541,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.12 (3).jpeg,Juan,0.9925578832626343,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.12.jpeg,Juan,0.9958183169364929,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.13 (1).jpeg,Juan,0.9967095851898193,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.13 (2).jpeg,Juan,0.9988327622413635,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.13 (3).jpeg,Juan,0.9939213991165161,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.13.jpeg,Juan,0.9908122420310974,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.14 (1).jpeg,Juan,0.9865286350250244,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.14 (2).jpeg,Juan,0.9806259870529175,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Juan\WhatsApp Image 2025-05-02 at 19.56.14.jpeg,Juan,0.9923015832901001,Juan
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0025.jpg,Leandro,0.9977222084999084,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0026.jpg,Leandro,0.9974079728126526,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0027.jpg,Leandro,0.9917961359024048,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0028.jpg,Leandro,0.9979060888290405,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0030.jpg,Leandro,0.8262988924980164,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0031.jpg,Leandro,0.9949445128440857,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0032.jpg,Leandro,0.9901809692382812,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0033.jpg,Leandro,0.9905593395233154,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0034.jpg,Leandro,0.9872153997421265,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0035.jpg,Leandro,0.9884955883026123,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0036.jpg,Leandro,0.9966272711753845,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0038.jpg,Leandro,0.9954676628112793,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0039.jpg,Leandro,0.9954847097396851,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0040.jpg,Leandro,0.9961509704589844,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0041.jpg,Leandro,0.864188015460968,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0042.jpg,Leandro,0.9976211190223694,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0043.jpg,Leandro,0.9959208965301514,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0044.jpg,Leandro,0.9840032458305359,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0045.jpg,Leandro,0.9910734295845032,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0047.jpg,Leandro,0.9871893525123596,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0049.jpg,Leandro,0.9884308576583862,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0050.jpg,Leandro,0.9989677667617798,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0051.jpg,Leandro,0.9887335300445557,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0052.jpg,Leandro,0.9982321858406067,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0053.jpg,Leandro,0.9991909861564636,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0054.jpg,Leandro,0.9795522093772888,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0055.jpg,Leandro,0.9960620999336243,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0056.jpg,Leandro,0.9758694767951965,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0057.jpg,Leandro,0.9883334636688232,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0059.jpg,Leandro,0.9961795806884766,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0061.jpg,Leandro,0.9915920495986938,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0062.jpg,Leandro,0.998576283454895,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0063.jpg,Leandro,0.9925779700279236,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0064.jpg,Leandro,0.9984772801399231,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0065.jpg,Leandro,0.9988037347793579,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0066.jpg,Leandro,0.9962108135223389,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0067.jpg,Leandro,0.9896687865257263,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0068.jpg,Leandro,0.974918782711029,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0069.jpg,Leandro,0.9879850745201111,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0070.jpg,Leandro,0.9806545376777649,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0071.jpg,Leandro,0.9940072298049927,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0072.jpg,Leandro,0.9975995421409607,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0073.jpg,Leandro,0.9751502275466919,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0076.jpg,Leandro,0.9984806180000305,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0078.jpg,Leandro,0.949015200138092,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0079.jpg,Leandro,0.9955840706825256,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0080.jpg,Leandro,0.9960089921951294,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0081.jpg,Leandro,0.9980560541152954,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0084.jpg,Leandro,0.9980541467666626,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Leandro\IMG-20250502-WA0085.jpg,Leandro,0.9969624876976013,Leandro
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_192538535.png,Miguel,0.991051197052002,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_192624096.png,Miguel,0.9916934370994568,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_192635287.png,Miguel,0.9864102005958557,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_192646665.png,Miguel,0.9837730526924133,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_192700740.png,Miguel,0.9886153936386108,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_192720751.png,Miguel,0.9909798502922058,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_192806926.png,Miguel,0.9970420002937317,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_192827581.png,Miguel,0.9879101514816284,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_192900504.png,Miguel,0.9876242876052856,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_192950293.png,Miguel,0.9868592023849487,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193046033.png,Miguel,0.9951293468475342,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193106969.png,Miguel,0.9878655076026917,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193138006.png,Miguel,0.9913817048072815,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193157449.png,Miguel,0.99540114402771,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193211051.png,Miguel,0.9585118293762207,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193221247.png,Miguel,0.9948487281799316,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193236237.png,Miguel,0.989834189414978,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193255427.png,Miguel,0.995468258857727,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193306432.png,Miguel,0.989503026008606,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193316438.png,Miguel,0.9903678894042969,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193332257.png,Miguel,0.9917036294937134,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193343554.png,Miguel,0.9873231053352356,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193356719.png,Miguel,0.9837537407875061,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193410844.png,Miguel,0.9846462607383728,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193423915.png,Miguel,0.9862042665481567,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193504381.png,Miguel,0.9908424615859985,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193515970.png,Miguel,0.9955973029136658,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193532820.png,Miguel,0.9764673113822937,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193544929.png,Miguel,0.49091261625289917,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193558346.png,Miguel,0.9744491577148438,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193616022.png,Miguel,0.9880692362785339,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193629556.png,Miguel,0.9729701280593872,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193644313.png,Miguel,0.981765866279602,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193705174.png,Miguel,0.9883285760879517,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193716495.png,Miguel,0.993624210357666,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193729712.png,Miguel,0.9687841534614563,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\image_2025-06-05_193810448.png,Miguel,0.9944767355918884,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\miguelzinho_miguelzinho.jpg,Miguel,0.9948461055755615,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\miguelzin_careta_engracada.jpg,Miguel,0.9829152822494507,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\miguelzin_com_cara_engracada.jpg,Miguel,0.997103750705719,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\miguelzin_de_perfil.jpg,Miguel,0.988616406917572,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\miguelzin_no_fundo_verde.jpg,Miguel,0.9970632195472717,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\miguelzin_ouvindo_rockpesado.jpg,Miguel,0.9957477450370789,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\miguelzin_sorriso_fofo.jpg,Miguel,0.9930816292762756,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\miguel_comprando_maca.jpg,Miguel,0.9890762567520142,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\miguel_demorando_pra_comer.jpg,Miguel,0.9957677125930786,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\mig_2ca_mao.jpg,Miguel,0.993279755115509,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\mig_2com_a_mao.jpg,Miguel,0.992475688457489,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\mig_caraengracada2.jpg,Miguel,0.9926592707633972,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\mig_careta_linguaprafora.jpg,Miguel,0.9986069798469543,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\mig_dancarino_oculos_escuro.jpg,Miguel,0.9913051128387451,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\mig_foto_do_dia.jpg,Miguel,0.9933688044548035,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\mig_joinha.jpg,Miguel,0.9819221496582031,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\mig_michilas.jpg,Miguel,0.9966700673103333,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Miguel\mig_vitoria_comdedos.jpg,Miguel,0.9948122501373291,Miguel
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\20241002_114348.jpg,Ygor,0.9839771389961243,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\20241130_152639.jpg,Ygor,0.9859122633934021,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\20241230_053229.jpg,Ygor,0.9922230839729309,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\20241230_185034.jpg,Ygor,0.4750964939594269,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\20250102_052746.jpg,Ygor,0.9988768696784973,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\20250103_033226.jpg,Ygor,0.9935717582702637,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\20250430_101951.jpg,Ygor,0.9965884685516357,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\20250505_101615(0).jpg,Ygor,0.997219443321228,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\Captura de tela 2025-05-07 115048.png,Ygor,0.9921659231185913,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\Captura de tela 2025-05-07 115241.png,Ygor,0.9817896485328674,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\Captura de tela 2025-05-07 115433.png,Ygor,0.9881070852279663,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\Captura de tela 2025-05-07 115457.png,Ygor,0.9803655743598938,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\Captura de tela 2025-06-05 191503.png,Ygor,0.9918274879455566,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_185618683.png,Ygor,0.9871252179145813,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_185653914.png,Ygor,0.9956541061401367,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_185721591.png,Ygor,0.9960346817970276,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_185759049.png,Ygor,0.9982699155807495,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_185844544.png,Ygor,0.9943155646324158,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_185909062.png,Ygor,0.9924893379211426,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_185936830.png,Ygor,0.9944736361503601,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_190010884.png,Ygor,0.9966835379600525,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_190047762.png,Ygor,0.9805940985679626,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_190139447.png,Ygor,0.9953372478485107,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_190211349.png,Ygor,0.9931394457817078,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_190329908.png,Ygor,0.993413507938385,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_190406030.png,Ygor,0.9950841069221497,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_190830496.png,Ygor,0.9991360306739807,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_190911444.png,Ygor,0.9833995699882507,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_190933258.png,Ygor,0.9974613189697266,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_190943551.png,Ygor,0.9950473308563232,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_191002411.png,Ygor,0.9883514046669006,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_191016312.png,Ygor,0.999140739440918,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_191151715.png,Ygor,0.9986224174499512,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_191208664.png,Ygor,0.9978729486465454,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_191221605.png,Ygor,0.9973260164260864,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_191303942.png,Ygor,0.9996145963668823,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_191316127.png,Ygor,0.9838378429412842,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_191335413.png,Ygor,0.9957205653190613,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_191429610.png,Ygor,0.9965265393257141,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_191441246.png,Ygor,0.974131166934967,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_191454215.png,Ygor,0.9836001396179199,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_191638009.png,Ygor,0.9802224040031433,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_191647896.png,Ygor,0.985532820224762,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_191656566.png,Ygor,0.9754254221916199,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_191708682.png,Ygor,0.960371196269989,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_191727269.png,Ygor,0.9930081367492676,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_191803809.png,Ygor,0.993524432182312,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_191825854.png,Ygor,0.9921201467514038,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_191859742.png,Ygor,0.9973341226577759,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_191927495.png,Ygor,0.9937080144882202,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_191936799.png,Ygor,0.9947286248207092,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\image_2025-06-05_192005812.png,Ygor,0.9992071986198425,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\IMG-20241103-WA0007.jpg,Ygor,0.9912359714508057,Ygor
+C:\Users\rodol\OneDrive\Área de Trabalho\Trabalho rooney\Fotos\Ygor\Screenshot_20250313_234823_Photos.jpg,Ygor,0.9957915544509888,Ygor
