@@ -178,7 +178,3 @@ A interface web será aberta automaticamente no seu navegador padrão.
 ## 🤝 Contribuindo
 
 Sinta-se à vontade para abrir issues para relatar bugs ou sugerir melhorias.
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. 
